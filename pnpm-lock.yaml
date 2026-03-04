@@ -11,9 +11,12 @@ importers:
       axios:
         specifier: ^1.13.5
         version: 1.13.5
+<<<<<<< HEAD
       puppeteer:
         specifier: ^24.37.5
         version: 24.37.5
+=======
+>>>>>>> a60ba636524dac76b69f826e3e4cfb374812d190
       qrcode-terminal:
         specifier: ^0.12.0
         version: 0.12.0

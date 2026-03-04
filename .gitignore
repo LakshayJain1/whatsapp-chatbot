@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 node_modules/
 .wwebjs_auth/
 .wwebjs_cache/
 .env
+=======
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+.env
+>>>>>>> a60ba636524dac76b69f826e3e4cfb374812d190
