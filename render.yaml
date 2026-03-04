@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: whatsapp-chatbot
+    env: docker
+    plan: free
+    dockerCommand: npm start
